@@ -136,7 +136,7 @@ h2 {
   padding: 0;
 }
 
-.hobbie-list li {
+.hobbies-list li {
   background-color: #ffffff;
   padding: 10px;
   margin-bottom: 4px;
@@ -151,7 +151,7 @@ h2 {
      - Change its text color to #ffffff
      - Change its left border color to #e67e22
 --------------------------------------------------------------- */
-.highlight {
+.hobbies-list li.highlight {
   background-color: #f39c12;
   color: #ffffff;
   border-left-color: #e67e22;
